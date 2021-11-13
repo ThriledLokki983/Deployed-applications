@@ -2,7 +2,7 @@
 
 # All my ongoing/completed PROJECTS
 
-> You can submit a PR to help me improve a particular project. If you have a better way of how a particular action/feature should have been hand;led, don't hesitate to drop me a message or submit a PS.
+> You can submit a PR to help me improve a particular project. If you have a better way of how a particular action/feature should have been handled, don't hesitate to drop me a message or submit a PR.
 > With our creative minds combined,
 > **we'll find multiple ways to solve these tech issues and expand the diversity of our skills.**
 
