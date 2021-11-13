@@ -7,7 +7,7 @@
 > **we'll find multiple ways to solve these tech issues and expand the diversity of our skills.**
 
 1. Superstore Ecommerce
-   [`Frontend-Demo`](https://web.dev/building-split-text-animations/)
+   [`Frontend-Demo`](https://618f99b064c9d5c89dd7dde0--gideon-ecom1.netlify.app)
    [`API`](https://dashboard.heroku.com/apps/ecommerce1-backend)
 
 2. Rest Countries
