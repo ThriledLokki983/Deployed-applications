@@ -7,8 +7,8 @@
 > **we'll find multiple ways to solve these tech issues and expand the diversity of our skills.**
 
 1. Superstore Ecommerce
-   [`Frontend-Demo`](https://618f99b064c9d5c89dd7dde0--gideon-ecom1.netlify.app)
-   [`API`](https://dashboard.heroku.com/apps/ecommerce1-backend)
+   [`Frontend-Demo`](https://gideon-ecom1.netlify.app)
+   [`Backend-API`](https://dashboard.heroku.com/apps/ecommerce1-backend)
 
 2. Rest Countries
    [`Demo`](https://gideon-rest-countries.netlify.app)
